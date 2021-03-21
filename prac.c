@@ -6,5 +6,7 @@ int main(void)
 {
     printf("Hello world.\n");
 
+    printf("Fuck hello world.\n");
     return 0;
+
 }
